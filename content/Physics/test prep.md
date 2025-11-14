@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T16:02:05.323+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T16:33:54.162+01:00","cssclasses":""}
 ---
 
 
@@ -91,6 +91,6 @@ Tritt Laserlicht durch zwei sehr dünne Spalten, dann beugt sich das Licht & dan
 		$k \in \left\{ {1\;;\;2\;;\;3\;;\;...} \right\}$ 
 		$\large \sin(\alpha) = \dfrac{\Delta s}{d} = \dfrac{k \cdot \lambda}{d}$ 
 		![[Physics/attachments/Pasted image 20251109164505.png|400]] 
-		Weil das gebeugte Licht eine längere Strecke zurücklegen muss, wird die Intensität auch schwächer ==desto weiter von der Mitte== es konstruktive Interferenz stattfindet:
+		Weil das gebeugte Licht eine längere Strecke zurücklegen muss, wird die Intensität auch schwächer ==desto weiter von der Mitte== es konstruktive Interferenz stattfindet: 
 		==(desto größer der Gangunterschied ($\Delta s$) ein Vielfaches der Wellenlänge ($\lambda$) ist)== 
 		![[Physics/attachments/Pasted image 20251109170815.png|400]]
