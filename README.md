@@ -1,3 +1,11 @@
+the site: https://chickensalad303.github.io/quartz-obsidian-other_vault/
+its empty, because only select documents are published
+
+example: https://chickensalad303.github.io/quartz-obsidian-other_vault/Physics/test-prep
+
+
+
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
