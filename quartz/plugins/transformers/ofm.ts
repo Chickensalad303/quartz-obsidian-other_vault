@@ -315,7 +315,7 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
                 const [inner] = capture
                 return {
                   type: "html",
-                  value: `<span class="text-highlight">${inner}</span>`,
+                  value: `<span id="test" class="text-highlight">${inner}</span>`,
                 }
               },
             ])
