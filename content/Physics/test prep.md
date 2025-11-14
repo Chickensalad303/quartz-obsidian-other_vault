@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T09:40:55.840+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T10:14:53.066+01:00","cssclasses":""}
 ---
 
 
-## Eigenschaften von Wellen
+# Eigenschaften von Wellen
 
-#### Huygen’sches Prinzip
+### Huygen’sches Prinzip
 Das Prinzip sagt, dass Jeder Punkt einer Wellenfront der Ausgangspunkt einer neuen Elementarwelle ist.
 
 - Beugung:
@@ -19,7 +19,7 @@ Das Prinzip sagt, dass Jeder Punkt einer Wellenfront der Ausgangspunkt einer neu
 	![[Physics/attachments/Pasted image 20251109133932.png|400]]
 
 
-##### Beugung:
+### Beugung:
 Als Beugung bezeichnet man die Ablenkung einer Welle an einem Hindernis, die nicht durch Brechung, Streuung, Reflexion verursacht wird.
 - Beugung von Wellen wird immer dann besonders deutlich, wenn die **Größe einer Öffnung** oder eines Hindernisses ungefähr **gleich groß** ist wie die Wellenlänge, **oder kleiner** als die Wellenlänge ist.
 - Wenn die Öffnung **viel größer** als die Wellenlänge ist (b≫λ), verhält sich die Welle fast so, als würde sie einfach geradlinig hindurchlaufen, und die Beugung ist kaum zu sehen.
@@ -29,13 +29,13 @@ Als Beugung bezeichnet man die Ablenkung einer Welle an einem Hindernis, die nic
 | ![[0Beugung-Single_slit.webp\|200]] | ![[0Beugung-Single_box.webp\|200]] | ![[0Beugung-double_slit.webp\|200]] |
 
 
-##### Reflexion:
+### Reflexion:
 Reflexion ist das **Zurückwerfen** einer Welle an der **Grenzfläche** zwischen zwei Medien.
 - **Reflexionsgesetz:** Der **Einfallswinkel** (α) ist immer **gleich** dem **Ausfallswinkel** (α′). ⟶ $\large α=α'$ 
 - Die **Geschwindigkeit** und die **Wellenlänge** der Welle ändern sich bei der Reflexion **nicht** 
 - Je **glatter** die Oberfläche (Spiegel, ruhige Wasseroberfläche), desto **Gerichteter** ist die Reflexion
 
-##### Brechung *(Richtungsänderung)*:
+### Brechung *(Richtungsänderung)*:
 Brechung ist die **Änderung der Ausbreitungsrichtung** einer Welle beim **Übergang** von einem Medium in ein anderes (z.B. von Luft zu Wasser).
 - **Ursache:** Die Welle ändert beim Übergang vom Medium ihre **Ausbreitungsgeschwindigkeit**. Wenn sich die **Geschwindigkeit ändert**, **ändert** sich die **Richtung** der Welle
 - Brechungsgesetz: $\large \frac{sin(β)}{sin(α)}​=\frac{c_{2}​}{c_{1}}​​=\frac{n_{1}}{n_{2}}​​$ 
@@ -50,14 +50,14 @@ Brechung ist die **Änderung der Ausbreitungsrichtung** einer Welle beim **Über
 
 
 
-#### Ausbreitungsgeschwindigkeit:
+### Ausbreitungsgeschwindigkeit:
 $$ \large  c = \lambda \cdot f$$ 
 Frequenz:  $\large f = \frac{1}{T}$ in $[Hz = \frac{1}{s}]$ 
 Periodendauer:  $\large T$ in $[s]$ 
 Ausbreitungsgeschwindigkeit durch Materie: $\large c = \dfrac{1}{\sqrt{ \mu_{0}  \cdot \epsilon_{0} \cdot \mu_{r} \cdot \epsilon_{r}}}$ 
 
 
-#### Interferenz:
+# Interferenz:
 Interferenz beschreibt die Anderung der Amplitude bei der Überlagerung von Wellen
 Die Auslenkung der Wellen werden addiert: $\large y_{ges} = y_{1} + y_{2}$ 
 
