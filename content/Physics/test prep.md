@@ -1,9 +1,9 @@
 ---
-{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-13T11:04:16.444+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T09:40:55.840+01:00","cssclasses":""}
 ---
 
 
-#### Eigenschaften von Wellen
+## Eigenschaften von Wellen
 
 #### Huygen’sches Prinzip
 Das Prinzip sagt, dass Jeder Punkt einer Wellenfront der Ausgangspunkt einer neuen Elementarwelle ist.
