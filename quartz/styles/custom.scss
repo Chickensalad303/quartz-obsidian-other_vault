@@ -10,6 +10,9 @@
 .table-container {
     font-weight: normal;
 } */
-svg width {
-    height: auto !important;
+
+svg {
+    &[data-svg="custom"] {
+        height: 700px;
+    }
 }
