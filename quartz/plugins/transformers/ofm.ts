@@ -130,7 +130,7 @@ export const tableWikilinkRegex = new RegExp(/(!?\[\[[^\]]*?\]\]|\[\^[^\]]*?\])/
 
 //const highlightRegex = new RegExp(/==([^=]+)==/g) this the old that doesn't work with katex
 //const highlightRegex = new RegExp(/==([\s\S]*?)==/g) //the better one 
-const highlightRegex = new RegExp(/(?<===)([\s\S]*?)(?>==)/gm)
+const highlightRegex = new RegExp(/(?<===)([\s\S]*?)(?>==)/g)
 
 const commentRegex = new RegExp(/%%[\s\S]*?%%/g)
 // from https://github.com/escwxyz/remark-obsidian-callout/blob/main/src/index.ts
