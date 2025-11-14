@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T15:57:19.440+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T16:02:05.323+01:00","cssclasses":""}
 ---
 
 
@@ -24,9 +24,9 @@ Als Beugung bezeichnet man die Ablenkung einer Welle an einem Hindernis, die nic
 - Beugung von Wellen wird immer dann besonders deutlich, wenn die **Größe einer Öffnung** oder eines Hindernisses ungefähr **gleich groß** ist wie die Wellenlänge, **oder kleiner** als die Wellenlänge ist.
 - Wenn die Öffnung **viel größer** als die Wellenlänge ist (b≫λ), verhält sich die Welle fast so, als würde sie einfach geradlinig hindurchlaufen, und die Beugung ist kaum zu sehen.
 
-| Beugung an einem dünnen Spalt       | Beugung an einem Hindernis         | Beugung am Doppelspalt              |
-| ----------------------------------- | ---------------------------------- | ----------------------------------- |
-| ![[0Beugung-Single_slit.webp\|200]] | ![[0Beugung-Single_box.webp\|200]] | ![[0Beugung-double_slit.webp\|200]] |
+| Beugung an einem dünnen Spalt  | Beugung an einem Hindernis    | Beugung am Doppelspalt         |
+| ------------------------------ | ----------------------------- | ------------------------------ |
+| ![[Physics/attachments/0Beugung-Single_slit.webp]] | ![[Physics/attachments/0Beugung-Single_box.webp]] | ![[Physics/attachments/0Beugung-double_slit.webp]] |
 
 
 ### Reflexion:
