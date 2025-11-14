@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T18:43:22.515+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T18:49:07.635+01:00","cssclasses":""}
 ---
 
 
@@ -45,8 +45,6 @@ Brechung ist die **Änderung der Ausbreitungsrichtung** einer Welle beim **Über
 
 | - Die Welle geht von einem optisch **dünnen** in ein<br>optisch **dichteres** Medium über <br>(z. B. Luft ⟶ Wasser).<br>⟹ Das Licht wird zu Lot 1 hin gebrochen, der Ausfallwinkel (β) ist **kleiner** als der Einfallswinkel (α). **(β < α)**<br>- Die Welle geht von einem optisch **dichteren** in ein optisch **dünneres** Medium über <br>(z. B. Wasser → Luft).<br>⟹ Das Licht wird zu Lot 3 weg gebrochen, der Brechungswinkel (β) ist **größer** als der Einfallswinkel (α). **(β > α)** | ![[Physics/attachments/1_full.webp]] |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- |
-
-
 
 
 
