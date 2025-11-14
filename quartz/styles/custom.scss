@@ -1,11 +1,9 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-@mixin table_weight{
+
+.table-container table thead tr th {
     font-weight: normal;
-}
-th {
-    @include .table_weight;
 } 
 /*
 .table-container {
