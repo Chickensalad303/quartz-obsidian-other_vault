@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T10:14:53.066+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T10:16:31.288+01:00","cssclasses":""}
 ---
 
 
@@ -61,20 +61,20 @@ Ausbreitungsgeschwindigkeit durch Materie: $\large c = \dfrac{1}{\sqrt{ \mu_{0} 
 Interferenz beschreibt die Anderung der Amplitude bei der Überlagerung von Wellen
 Die Auslenkung der Wellen werden addiert: $\large y_{ges} = y_{1} + y_{2}$ 
 
-###### Konstruktive Interferenz
+### Konstruktive Interferenz
 Vergrößert sich die Auslenkung der resultierende Welle. 
 - $\large y_{1}$ & $\large y_{2}$ Phasenunterschied zwischen **0** oder **vielfaches der Periode**, verdoppelt sich die Auslenkung
 
-###### Destruktive Interferenz
+### Destruktive Interferenz
 Verkleinert sich die Auslenkung der resultierende Welle
 - $\large y_{1}$ & $\large y_{2}$  Phasenunterschied **halbe der Periode** oder vielfaches davon, gleichen sie sich aus (Auslenkung = 0)
 
-###### Schwebung
+### Schwebung
 Die Überlagerung zweier Schwingungen mit Ähnlicher Frequenz $\large f_{1} ≈ f_{2}$ nennt man Schwebung
 - Die resultierende Schwingung hat eine neue Frequenz $\large f_{R} = \frac{f_{1}+f_{2}}{2}$  
 - & hat regelmäßigen Amplituden-schwankungen mit der Schwebungsfrequenz $\large f_{S} = \frac{|f_{1} + f_{2}|}{2}$  
 
-###### Stehende Welle
+### Stehende Welle
 Eine stehende Welle ist eine Welle, bei der die **Orte maximaler Auslenkung** (Bäuche) und
 die **Orte ohne Auslenkung** (Knoten) räumlich **stillstehen**. 
 - Sie entsteht z.B. in Überlagerung von zwei **gegenläufige** Wellen **gleicher Frequenz** und **gleicher Amplitude** 
@@ -85,7 +85,7 @@ die **Orte ohne Auslenkung** (Knoten) räumlich **stillstehen**.
 
 
 
-#### Interferenz von Lich am Doppelspalt
+### Interferenz von Lich am Doppelspalt
 Tritt Laserlicht durch zwei sehr dünne Spalten, dann beugt sich das Licht & dann interferieren die beiden Lichtstrahlen miteinander.
 - Konstruktive Interferenz tritt auf wenn der **Gangunterschied** zwischen beide Strahlen ($\large \Delta s$) ein ganzzahliges Vielfaches der Wellenlänge ist ⟶ $\large \Delta s = k \cdot \lambda$ 
 		$k \in \left\{ {1\;;\;2\;;\;3\;;\;...} \right\}$ 
