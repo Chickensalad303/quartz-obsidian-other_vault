@@ -128,9 +128,7 @@ export const tableRegex = new RegExp(/^\|([^\n])+\|\n(\|)( ?:?-{3,}:? ?\|)+\n(\|
 // matches any wikilink, only used for escaping wikilinks inside tables
 export const tableWikilinkRegex = new RegExp(/(!?\[\[[^\]]*?\]\]|\[\^[^\]]*?\])/g)
 
-//const highlightRegex = new RegExp(/==([^=]+)==/g) this the old that doesn't work with katex
-const highlightRegex = new RegExp(/==([\s\S]*?)==/g) //the better one 
-
+const highlightRegex = new RegExp(/==([^=]+)==/g)
 
 const commentRegex = new RegExp(/%%[\s\S]*?%%/g)
 // from https://github.com/escwxyz/remark-obsidian-callout/blob/main/src/index.ts
