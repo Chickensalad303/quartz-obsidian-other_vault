@@ -350,9 +350,20 @@ h2,
 h3,
 h4,
 h5,
-h6,
-thead {
+h6 {
   font-family: var(--headerFont);
+  color: var(--dark);
+  font-weight: revert;
+  margin-bottom: 0;
+
+  article > & > a[role="anchor"] {
+    color: var(--dark);
+    background-color: transparent;
+  }
+}
+/* customized */
+thead {
+  /* font-family: var(--body); */
   color: var(--dark);
   font-weight: revert;
   margin-bottom: 0;
