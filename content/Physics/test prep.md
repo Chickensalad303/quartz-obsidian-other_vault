@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2025-11-14T18:49:07.635+01:00","cssclasses":""}
+{"publish":true,"created":"2025-11-09T10:05:37.258+01:00","modified":"2026-02-22T11:40:16.391+01:00","cssclasses":""}
 ---
 
 
@@ -84,6 +84,7 @@ die **Orte ohne Auslenkung** (Knoten) räumlich **stillstehen**.
 
 
 ### Interferenz von Lich am Doppelspalt
+
 Tritt Laserlicht durch zwei sehr dünne Spalten, dann beugt sich das Licht & dann interferieren die beiden Lichtstrahlen miteinander.
 - Konstruktive Interferenz tritt auf wenn der **Gangunterschied** zwischen beide Strahlen ($\large \Delta s$) ein ganzzahliges Vielfaches der Wellenlänge ist ⟶ $\large \Delta s = k \cdot \lambda$ 
 		$k \in \left\{ {1\;;\;2\;;\;3\;;\;...} \right\}$ 
