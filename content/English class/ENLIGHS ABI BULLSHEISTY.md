@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-27T17:37:00.638+02:00","cssclasses":""}
+{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-27T17:44:34.651+02:00","cssclasses":""}
 ---
 
 # Quote “Correctly”
@@ -11,7 +11,7 @@
 # Stylistic Devices
 
 > [!NOTE]- Enumeration
-> - listing of words, phrases or ideas
+> listing of words, phrases or ideas
 
 > [!NOTE]- Anaphora
 > Repetition of words or phrases
@@ -43,6 +43,25 @@
 
 > [!NOTE]- Personification
 > assigns human qualities to something not human
+
+> [!NOTE]- Comparision/Simile
+> explicit comparison using "as" or "like"
+
+> [!NOTE]- Irony
+> Irony occurs when events or words are the opposite of what is expected, creating a sense of surprise, humor, or deeper meaning
+
+> [!NOTE]- Euphemism
+> Schönschreibung
+> Expressions that replace words that stand for something negative
+> Example: Example:He was vertically challenged (short)
+
+> [!NOTE]- Connotation
+> attitudes, feelings and emotions aroused by the word
+
+> [!NOTE]- Juxtaposition
+> Example: love-sick
+
+
 
 
 
