@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2026-04-27T15:28:56.759+02:00","modified":"2026-04-28T09:18:36.301+02:00","cssclasses":""}
+{"publish":true,"created":"2026-04-27T15:28:56.759+02:00","modified":"2026-04-28T14:46:33.021+02:00","cssclasses":""}
 ---
 
 - **Damit 2 Ereignisse unabhängig von einander sind muss $\large P(A \cap B ) = P(A) * P(B)$ sein**
 
 
-- **Erwartungswert $\large E(X) = n*p$** 
+- **Erwartungswert $\large E(X) = n*p = x_{1}*P(X =x_{1}) +x_{2} * P(X=x_{2}) +\dots + x_{n}* P(X=x_{n})$** 
 - **Standardabweichung $\large \sigma(X) = \sqrt{ n*p*(1-p) }$** 
 
 - **Signifikanzniveau die maximale Irrtumswahrscheinlichkeit** 
