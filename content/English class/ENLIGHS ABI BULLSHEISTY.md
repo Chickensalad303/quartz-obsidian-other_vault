@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-27T17:44:34.651+02:00","cssclasses":""}
+{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-29T17:55:56.942+02:00","cssclasses":""}
 ---
 
 # Quote “Correctly”
@@ -7,6 +7,31 @@
 - **Direktes Zitat**: “Silvia is an older woman who lives in a small apartment in Brooklyn.” (p. 5, l. 8)
 - **Indirektes Zitat:** The older main character lives in New York. (cf. p. 5, l. 8)
 - **Zitat kürzen:** “Silvia is an older woman who lives in […] Brooklyn.” (p. 5, l. 8)
+
+# Analysis
+**its all about the HOW something is done & why** 
+**HOW + WHY** 
+	Example: **HOW: metaphor + WHY: to make something more vivid/tangible that is otherwise abstract**
+	Example: **HOW: enumeration + WHY: to emphasize/clarify or present something in a rhythmic flow to add detail** 
+	Example: **HOW: hyperbole + WHY: to emphasize …**
+
+Example: Analyze how … increase interest around …
+Example: Analyze the means used to characterize …
+- Intro:
+	- The article “...” by ... published in ... deals with the issue of ...
+- Main:
+	- Shortly summarize what the presented text is about
+	- Analyse Language
+		- The language used (**tone**, **choice of words**, how is the reader addressed) & what **effect** does it have
+		- The **stylistic devices** & their **effects on the reader**
+		- Sentence structure (long, short) & its effect on the reader
+		- **Ethos:** speaker presents as trustworthy, knowledgeable, well-meaning
+		- **Pathos:** speaker appeals to audiences emotions
+		- **Logos:** speaker persuades using reason, logical arguments, and facts
+- End:
+	- Short summary of the analysis
+	- If you want also evaluate/give own opinion
+
 
 # Stylistic Devices
 
