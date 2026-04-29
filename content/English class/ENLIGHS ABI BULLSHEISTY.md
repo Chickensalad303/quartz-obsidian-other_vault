@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-29T18:05:44.192+02:00","cssclasses":""}
+{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-29T18:08:38.066+02:00","cssclasses":""}
 ---
 
 # Quote “Correctly”
@@ -22,7 +22,7 @@ Example: Analyze the means used to characterize …
 	- The article “...” by ... published in ... deals with the issue of ...
 - Main:
 	- Shortly summarize what the presented text is about
-	- Analyse Language
+	- Analyse Text
 		- The language used (**tone**, **choice of words**, how is the reader addressed) & what **effect** does it have
 		- The **[[English class/ENLIGHS ABI BULLSHEISTY#Stylistic Devices]]** & their **effects on the reader**
 		- Sentence structure (long, short) & its effect on the reader
@@ -30,7 +30,7 @@ Example: Analyze the means used to characterize …
 		- **Pathos:** speaker appeals to audiences emotions
 		- **Logos:** speaker persuades using reason, logical arguments, and facts
 - End:
-	- Short summary of the analysis
+	- Conclusion of the analysis
 	- If you want also evaluate/give own opinion
 
 
