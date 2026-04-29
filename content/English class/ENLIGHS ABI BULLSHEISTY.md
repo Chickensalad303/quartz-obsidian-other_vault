@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-29T18:08:38.066+02:00","cssclasses":""}
+{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-29T22:51:27.802+02:00","cssclasses":""}
 ---
 
 # Quote “Correctly”
@@ -52,6 +52,8 @@ Example: Analyze the means used to characterize …
 > [!NOTE]- Metaphor
 > word / phrase used to describe something else
 > basically a comparison that doesn’t use ‘like’ or ‘as’
+> >Example: **Time is a thief**
+> >Example: **The classroom was a zoo**
 
 > [!NOTE]- Comparision/Simile
 > explicit comparison using "as" or "like"
