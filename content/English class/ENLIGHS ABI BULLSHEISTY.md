@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-29T17:55:56.942+02:00","cssclasses":""}
+{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-29T18:01:00.218+02:00","cssclasses":""}
 ---
 
 # Quote “Correctly”
@@ -23,7 +23,7 @@ Example: Analyze the means used to characterize …
 	- Shortly summarize what the presented text is about
 	- Analyse Language
 		- The language used (**tone**, **choice of words**, how is the reader addressed) & what **effect** does it have
-		- The **stylistic devices** & their **effects on the reader**
+		- The **[[English class/ENLIGHS ABI BULLSHEISTY#Stylistic Devices]]** & their **effects on the reader**
 		- Sentence structure (long, short) & its effect on the reader
 		- **Ethos:** speaker presents as trustworthy, knowledgeable, well-meaning
 		- **Pathos:** speaker appeals to audiences emotions
@@ -38,22 +38,8 @@ Example: Analyze the means used to characterize …
 > [!NOTE]- Enumeration
 > listing of words, phrases or ideas
 
-> [!NOTE]- Anaphora
-> Repetition of words or phrases
-
-> [!NOTE]- Alliteration
-> Recurrence of the first letter of a word
-
-> [!NOTE]- Antithesis
-> Opposing words or phrases to create contrast
-> i.e. love and hate or 
-> peace and war 
-
 > [!NOTE]- Hyperbole
 > exaggeration
-
-> [!NOTE]- Parallelism
-> uses consistent, matching structures of words or phrases to balance similar ideas
 
 > [!NOTE]- Symbol
 > Concrete thing that stands for something abstract 
@@ -66,14 +52,8 @@ Example: Analyze the means used to characterize …
 > word / phrase used to describe something else
 > basically a comparison that doesn’t use ‘like’ or ‘as’
 
-> [!NOTE]- Personification
-> assigns human qualities to something not human
-
 > [!NOTE]- Comparision/Simile
 > explicit comparison using "as" or "like"
-
-> [!NOTE]- Irony
-> Irony occurs when events or words are the opposite of what is expected, creating a sense of surprise, humor, or deeper meaning
 
 > [!NOTE]- Euphemism
 > Schönschreibung
@@ -82,6 +62,28 @@ Example: Analyze the means used to characterize …
 
 > [!NOTE]- Connotation
 > attitudes, feelings and emotions aroused by the word
+
+
+
+> [!NOTE]- Anaphora
+> Repetition of words or phrases
+
+> [!NOTE]- Alliteration
+> Recurrence of the first letter of a word
+
+> [!NOTE]- Antithesis
+> Opposing words or phrases to create contrast
+> i.e. love and hate or 
+> peace and war 
+
+> [!NOTE]- Parallelism
+> uses consistent, matching structures of words or phrases to balance similar ideas
+
+> [!NOTE]- Personification
+> assigns human qualities to something not human
+
+> [!NOTE]- Irony
+> Irony occurs when events or words are the opposite of what is expected, creating a sense of surprise, humor, or deeper meaning
 
 > [!NOTE]- Juxtaposition
 > Example: love-sick
