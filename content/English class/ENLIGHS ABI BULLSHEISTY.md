@@ -1,12 +1,13 @@
 ---
-{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-29T18:01:00.218+02:00","cssclasses":""}
+{"publish":true,"created":"2026-04-27T17:09:03.641+02:00","modified":"2026-04-29T18:05:44.192+02:00","cssclasses":""}
 ---
 
 # Quote “Correctly”
 
-- **Direktes Zitat**: “Silvia is an older woman who lives in a small apartment in Brooklyn.” (p. 5, l. 8)
-- **Indirektes Zitat:** The older main character lives in New York. (cf. p. 5, l. 8)
-- **Zitat kürzen:** “Silvia is an older woman who lives in […] Brooklyn.” (p. 5, l. 8)
+- **Direktes Quote**: “Silvia is an older woman who lives in a small apartment in Brooklyn.” (p. 5, l. 8)
+- **Paraphrased Quote:** The older main character lives in New York. (cf. p. 5, l. 8)
+- **Shortened Quote:** “Silvia is an older woman who lives in […] Brooklyn.” (p. 5, l. 8)
+
 
 # Analysis
 **its all about the HOW something is done & why** 
